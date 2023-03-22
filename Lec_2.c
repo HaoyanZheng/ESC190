@@ -1,4 +1,4 @@
 #include <stdio.h>
 
 // types of placeholders
-// %d 
+// %d: integer, 32 bits
